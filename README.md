@@ -15,6 +15,7 @@
 - [Main Features](#main-features)
 - [Presentation](#presentation)
 - [Design](#design)
+- [Stacks & Tools](#stacks--tools)
 - [What's Next?](#whats-next)
 - [For iOS App](#ios-app)
 
@@ -87,6 +88,9 @@ This is an app flow design that visually expresses the route creation process of
 
 This design components section contains the visual elements of the Dietnam app.
 > 이 디자인 컴포넌트 섹션은 Dietnam 앱의 시각적 요소를 포함하고 있습니다.
+
+## Stacks & Tools
+![stacks](https://github.com/user-attachments/assets/d1293696-d0f0-408e-bae2-699a382560fd)
 
 ## What's Next?
 
