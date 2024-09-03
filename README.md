@@ -9,15 +9,15 @@
 </p>
 
 ## 📚 Table of Contents
-- [Internship Overview](#internship-overview)
-- [TEAM Introduction](#team-introduction)
-- [Service Introduction](#service-introduction)
-- [Main Features](#main-features)
-- [Presentation](#presentation)
-- [Design](#design)
-- [Stacks & Tools](#stacks--tools)
-- [What's Next?](#whats-next)
-- [For iOS App](#ios-app)
+[1. Internship Overview](#internship-overview)  
+[2. TEAM Introduction](#team-introduction)  
+[3. Service Introduction](#service-introduction)  
+[4. Main Features](#main-features)  
+[5. Presentation](#presentation)  
+[6. Design](#design)  
+[7. Stacks & Tools](#stacks--tools)  
+[8. What's Next?](#whats-next)  
+[9. For iOS App](#ios-app)  
 
 ## Internship Overview
 - Duration: `2024.08.11 – 2024.08.24`
